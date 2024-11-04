@@ -1,124 +1,154 @@
 {
   "smartWatches": [
     {
-      "id": 1,
-      "brand": "Apple",
-      "model": "Apple Watch Series 8",
+      "product_id": 1,
+      "product_title": "Apple Watch Series 8",
+      "product_image": "https://i.ibb.co/gddLk7S/Apple-Watch-Series-8.webp",
+      "category": "Smartwatches",
       "price": 399,
-      "specs": {
+      "description": "Advanced smartwatch with health features and seamless iOS integration.",
+      "Specification": {
         "screenSize": "1.9 inches",
         "batteryLife": "18 hours",
         "waterResistance": "50m"
       },
-      "img": "https://i.ibb.co.com/gddLk7S/Apple-Watch-Series-8.webp"
+      "availability": true,
+      "rating": 4.8
     },
     {
-      "id": 2,
-      "brand": "Samsung",
-      "model": "Galaxy Watch 5",
+      "product_id": 2,
+      "product_title": "Samsung Galaxy Watch 5",
+      "product_image": "https://i.ibb.co/HTtbQ1C/Galaxy-Watch5-blue-custom-ma-bd.webp",
+      "category": "Smartwatches",
       "price": 279,
-      "specs": {
+      "description": "Feature-rich smartwatch with extensive battery life and Samsung Health.",
+      "Specification": {
         "screenSize": "1.4 inches",
         "batteryLife": "50 hours",
         "waterResistance": "50m"
       },
-      "img": "https://i.ibb.co.com/HTtbQ1C/Galaxy-Watch5-blue-custom-ma-bd.webp"
+      "availability": true,
+      "rating": 4.6
     },
     {
-      "id": 3,
-      "brand": "Fitbit",
-      "model": "Fitbit Versa 4",
+      "product_id": 3,
+      "product_title": "Fitbit Versa 4",
+      "product_image": "https://i.ibb.co/pj0qQsS/Fitbit-Versa-4.jpg",
+      "category": "Smartwatches",
       "price": 229,
-      "specs": {
+      "description": "Health-oriented smartwatch with a focus on fitness and wellness.",
+      "Specification": {
         "screenSize": "1.6 inches",
         "batteryLife": "6 days",
         "waterResistance": "50m"
       },
-      "img": "https://i.ibb.co.com/pj0qQsS/Fitbit-Versa-4.jpg"
+      "availability": true,
+      "rating": 4.5
     },
     {
-      "id": 4,
-      "brand": "Garmin",
-      "model": "Fenix 7",
+      "product_id": 4,
+      "product_title": "Garmin Fenix 7",
+      "product_image": "https://i.ibb.co/gzKMzqb/Fenix-7.webp",
+      "category": "Smartwatches",
       "price": 699,
-      "specs": {
+      "description": "Rugged multisport GPS watch for adventure and endurance.",
+      "Specification": {
         "screenSize": "1.3 inches",
         "batteryLife": "18 days",
         "waterResistance": "100m"
       },
-      "img": "https://i.ibb.co.com/gzKMzqb/Fenix-7.webp"
+      "availability": false,
+      "rating": 4.9
     },
     {
-      "id": 5,
-      "brand": "Amazfit",
-      "model": "GTS 4",
+      "product_id": 5,
+      "product_title": "Amazfit GTS 4",
+      "product_image": "https://i.ibb.co/jRPd37M/Amazfit.jpg",
+      "category": "Smartwatches",
       "price": 199,
-      "specs": {
+      "description": "Lightweight smartwatch with long battery life and multiple sports modes.",
+      "Specification": {
         "screenSize": "1.75 inches",
         "batteryLife": "8 days",
         "waterResistance": "50m"
       },
-      "img": "https://i.ibb.co.com/jRPd37M/Amazfit.jpg"
+      "availability": true,
+      "rating": 4.3
     },
     {
-      "id": 6,
-      "brand": "Huawei",
-      "model": "Watch GT 3",
+      "product_id": 6,
+      "product_title": "Huawei Watch GT 3",
+      "product_image": "https://i.ibb.co/VLGh9Cx/huawei-watch-gt-3-weight-2.png",
+      "category": "Smartwatches",
       "price": 249,
-      "specs": {
+      "description": "Sophisticated smartwatch with impressive battery life and health features.",
+      "Specification": {
         "screenSize": "1.43 inches",
         "batteryLife": "14 days",
         "waterResistance": "50m"
       },
-      "img": "https://i.ibb.co.com/VLGh9Cx/huawei-watch-gt-3-weight-2.png"
+      "availability": true,
+      "rating": 4.6
     },
     {
-      "id": 7,
-      "brand": "Withings",
-      "model": "ScanWatch",
+      "product_id": 7,
+      "product_title": "Withings ScanWatch",
+      "product_image": "https://i.ibb.co/12QYZm6/Scan-Watch.jpg",
+      "category": "Smartwatches",
       "price": 299,
-      "specs": {
+      "description": "Hybrid smartwatch with medical-grade health monitoring.",
+      "Specification": {
         "screenSize": "1.64 inches",
         "batteryLife": "30 days",
         "waterResistance": "50m"
       },
-      "img": "https://i.ibb.co.com/12QYZm6/Scan-Watch.jpg"
+      "availability": false,
+      "rating": 4.7
     },
     {
-      "id": 8,
-      "brand": "TicWatch",
-      "model": "Pro 3 Ultra",
+      "product_id": 8,
+      "product_title": "TicWatch Pro 3 Ultra",
+      "product_image": "https://i.ibb.co/qmCgBqM/TicWatch.webp",
+      "category": "Smartwatches",
       "price": 299,
-      "specs": {
+      "description": "High-performance Wear OS smartwatch with extended battery mode.",
+      "Specification": {
         "screenSize": "1.4 inches",
         "batteryLife": "72 hours",
         "waterResistance": "50m"
       },
-      "img": "https://i.ibb.co.com/qmCgBqM/TicWatch.webp"
+      "availability": true,
+      "rating": 4.4
     },
     {
-      "id": 9,
-      "brand": "Fossil",
-      "model": "Gen 6",
+      "product_id": 9,
+      "product_title": "Fossil Gen 6",
+      "product_image": "https://i.ibb.co/rFdQM76/Fossil.jpg",
+      "category": "Smartwatches",
       "price": 299,
-      "specs": {
+      "description": "Stylish smartwatch with Snapdragon Wear 4100+ and fast charging.",
+      "Specification": {
         "screenSize": "1.28 inches",
         "batteryLife": "24 hours",
         "waterResistance": "30m"
       },
-      "img": "https://i.ibb.co.com/rFdQM76/Fossil.jpg"
+      "availability": true,
+      "rating": 4.2
     },
     {
-      "id": 10,
-      "brand": "Suunto",
-      "model": "7 Titanium",
+      "product_id": 10,
+      "product_title": "Suunto 7 Titanium",
+      "product_image": "https://i.ibb.co/sgXhSpK/7-Titanium.jpg",
+      "category": "Smartwatches",
       "price": 399,
-      "specs": {
+      "description": "Titanium-cased smartwatch for fitness and outdoor adventures.",
+      "Specification": {
         "screenSize": "1.39 inches",
         "batteryLife": "48 hours",
         "waterResistance": "50m"
       },
-      "img": "https://i.ibb.co.com/sgXhSpK/7-Titanium.jpg"
+      "availability": true,
+      "rating": 4.5
     }
   ]
 }
